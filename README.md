@@ -9,7 +9,7 @@
 
 - [加载更多新闻](https://winters0991.github.io/jQuery-plug-in-/组件-加载更多新闻/组件-LoadMore)
 
-- [木桶布局](https://winters0991.github.io/jQuery-plug-in-/木桶布局/木桶布局-随机单色)
+- [木桶布局](https://winters0991.github.io/jQuery-plug-in-/木桶布局/木桶布局-图片)
 
 - [tab切换](https://winters0991.github.io/jQuery-plug-in-/组件-tab切换)
 
